@@ -1,0 +1,6 @@
+id=localpolicy
+name=Local SELinux Policy
+version=0.1
+versionCode=1
+author=Devin J. Pohly
+description=Load custom sepolicy file at boot
